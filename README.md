@@ -1,0 +1,4 @@
+Autoreminder
+============
+
+Magento Autoreminders Module
